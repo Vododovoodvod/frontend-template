@@ -15,4 +15,4 @@ Deploy the build directory after building for production
 - [ ] Support for linting (ESLint)
 - [ ] Support for code styline (Prettier)
 - [x] Support for production builds
-- [x] Support for development server
+- [x] Support for development server 

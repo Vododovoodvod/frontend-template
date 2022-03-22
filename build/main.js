@@ -1,1 +1,1 @@
-(()=>{"use strict";console.log((1,1+Math.random()))})();
+(()=>{"use strict";document.getElementById("app").innerHTML=Math.random()+Math.random()})();
