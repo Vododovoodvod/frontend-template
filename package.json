@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "webpack --node-env production --config webpack.config.js",
+    "build-production": "webpack --node-env production --config webpack.config.js",
     "dev": "webpack-dev-server --node-env development --config webpack.config.js"
   },
   "devDependencies": {
